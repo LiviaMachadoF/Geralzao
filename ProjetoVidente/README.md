@@ -8,7 +8,7 @@ Dona Zefa das Visões é uma aplicação web simples que simula uma vidente cear
 
 ## Como Usar
 
-1. Acesse [Dona Zefa das Visões](URL_DO_SEU_PROJETO).
+1. Acesse [Dona Zefa das Visões](https://liviamachadof.github.io/Zefa-Vidente/).
 
 2. Insira sua pergunta na caixa de texto.
 
@@ -42,4 +42,4 @@ Sinta-se à vontade para contribuir com melhorias ou correções. Basta fazer um
 
 ---
 
-**Dona Zefa das Visões** - Desenvolvido por [Livia Machado](URL_DO_SEU_PERFIL_NO_GITHUB) pela Maratona da [Rocketseat](https://www.rocketseat.com.br)
+**Dona Zefa das Visões** - Desenvolvido por [Livia Machado](https://github.com/LiviaMachadoF) pela Maratona da [Rocketseat](https://www.rocketseat.com.br)
