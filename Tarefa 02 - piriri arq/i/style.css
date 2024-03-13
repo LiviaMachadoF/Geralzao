@@ -1,0 +1,60 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    margin: 30px 50px;
+  }
+  
+  #top ul{
+    list-style: none;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #top ul li a{
+    color: black;
+    text-decoration: none;
+    padding: 10px 5px;
+    background-color: rgb(252,212,204);
+    border: 1px solid rgb(252,195,196);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.4s;
+  }
+  
+  #top ul li a:hover{
+    background-color: rgb(247, 186, 201);
+    border: 1.5px solid rgb(187, 124, 112);
+  }
+  
+  #titulo img{
+    width: 70px;
+    margin-bottom: -1%;
+  }
+  
+  #titulo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font: italic 1.1em monospace;
+  }
+
+
+  #clientes{
+    background-color:  rgb(252,212,204);
+  }
+
+  #clientes table thead tr {
+    background-color:  rgb(252,195,196);
+  }
+
+  #clientes table tbody td{
+    text-align: center;
+  }
