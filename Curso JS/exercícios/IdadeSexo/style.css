@@ -1,0 +1,39 @@
+body{
+    background: rgb(91, 91, 180);
+    font: normal 15pt arial;
+  }
+  
+  header {
+    color: white;
+    text-align: center;
+  }
+  
+  section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: auto;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(124, 124, 124);
+  }
+  
+  div {
+    text-align: center;
+    justify-content: center;
+    padding: 8px;
+  }
+  
+  #foto{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;  
+    height: 250px;
+    border-radius: 50%;
+    }
+
+  footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+  }
