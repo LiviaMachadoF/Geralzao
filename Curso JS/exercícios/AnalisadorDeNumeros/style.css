@@ -1,0 +1,31 @@
+body{
+    background: rgb(91, 91, 180);
+    font: normal 15pt arial;
+  }
+  
+  header {
+    color: white;
+    text-align: center;
+  }
+  
+  section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: auto;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(124, 124, 124);
+  }
+
+  select#flista {
+    width: 150px;
+  }
+  
+
+  
+  
+  footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+  }
